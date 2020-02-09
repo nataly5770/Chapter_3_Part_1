@@ -28,6 +28,5 @@ public class PalindromeInteger_3_12 {
         System.out.println(
                 number + ((number1 == number3)? " is a " : " is not a ") + "palindrome");
 
-
     }
 }

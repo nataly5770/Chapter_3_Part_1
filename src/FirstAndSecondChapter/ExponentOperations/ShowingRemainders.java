@@ -1,4 +1,4 @@
-package ExponentOperations;
+package FirstAndSecondChapter.ExponentOperations;
 
 public class ShowingRemainders {
     public static void main(String[] args) {

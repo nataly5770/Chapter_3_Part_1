@@ -1,4 +1,4 @@
-package IncrementAndDecrementOperators;
+package FirstAndSecondChapter.IncrementAndDecrementOperators;
 
 public class PrefixPostfix {
     public static void main(String[] args) {

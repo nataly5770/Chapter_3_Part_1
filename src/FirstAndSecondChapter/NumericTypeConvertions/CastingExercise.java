@@ -1,4 +1,4 @@
-package NumericTypeConvertions;
+package FirstAndSecondChapter.NumericTypeConvertions;
 
 public class CastingExercise {
     public static void main(String[] args) {

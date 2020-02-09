@@ -1,4 +1,4 @@
-package DisplayingTheCurrentTime;
+package FirstAndSecondChapter.DisplayingTheCurrentTime;
 
 public class SystemDemo {
     public static void main(String[] args) {

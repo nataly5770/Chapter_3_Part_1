@@ -1,4 +1,4 @@
-package NumericTypeConvertions;
+package FirstAndSecondChapter.NumericTypeConvertions;
 
 import java.util.Scanner;
 

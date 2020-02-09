@@ -1,4 +1,4 @@
-package ExponentOperations;
+package FirstAndSecondChapter.ExponentOperations;
 
 public class PowMethod {
     public static void main(String[] args) {

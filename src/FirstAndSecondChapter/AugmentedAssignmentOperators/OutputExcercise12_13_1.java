@@ -1,4 +1,4 @@
-package AugmentedAssignmentOperators;
+package FirstAndSecondChapter.AugmentedAssignmentOperators;
 
 public class OutputExcercise12_13_1 {
     public static void main(String[] args) {

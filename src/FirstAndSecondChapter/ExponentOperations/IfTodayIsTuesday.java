@@ -1,4 +1,4 @@
-package ExponentOperations;
+package FirstAndSecondChapter.ExponentOperations;
 
 import java.util.Scanner;
 

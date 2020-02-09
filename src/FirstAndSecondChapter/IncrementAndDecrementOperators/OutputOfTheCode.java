@@ -1,4 +1,4 @@
-package IncrementAndDecrementOperators;
+package FirstAndSecondChapter.IncrementAndDecrementOperators;
 
 public class OutputOfTheCode {
     public static void main(String[] args) {

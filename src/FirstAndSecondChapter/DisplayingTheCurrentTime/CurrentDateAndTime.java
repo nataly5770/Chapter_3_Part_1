@@ -1,4 +1,4 @@
-package DisplayingTheCurrentTime;
+package FirstAndSecondChapter.DisplayingTheCurrentTime;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;

@@ -1,4 +1,4 @@
-package NumericLiterals_2_10;
+package FirstAndSecondChapter.NumericLiterals_2_10;
 
 public class IntegerLiterals {
     public static void main(String[] args) {
